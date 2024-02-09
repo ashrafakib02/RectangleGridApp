@@ -69,7 +69,7 @@ const styles = StyleSheet.create({
   },
   gridItem: {
     backgroundColor: 'lightblue',
-    margin: 1,
+    margin: 2,
   },
   gridRow: {
     flexDirection: 'row',
